@@ -724,7 +724,7 @@ F (..\Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x5CCA3F75)()
 F (..\Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x5CCA3F75)()
 F (..\Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x5CCA3F75)()
 F (..\Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x5CCA3F75)()
-F (..\User\main.c)(0x5CCA50F8)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\User -I ..\Library\CMSIS -I ..\Library\STM32F10x_StdPeriph_Driver\inc-I.\RTE\_FW-LED-I"D:\program files\keil\Keil\STM32F1xx_DFP\2.3.0\Device\Include"-I"D:\program files\keil\ARM\CMSIS\Include"-D__UVISION_VERSION="527" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+F (..\User\main.c)(0x5CCA51A4)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\User -I ..\Library\CMSIS -I ..\Library\STM32F10x_StdPeriph_Driver\inc-I.\RTE\_FW-LED-I"D:\program files\keil\Keil\STM32F1xx_DFP\2.3.0\Device\Include"-I"D:\program files\keil\ARM\CMSIS\Include"-D__UVISION_VERSION="527" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
 I (..\Library\CMSIS\stm32f10x.h)(0x5CCA3F74)
 I (..\Library\CMSIS\core_cm3.h)(0x5CCA3F74)
 I (D:\program files\keil\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
@@ -849,4 +849,4 @@ I (..\Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x5CCA3F75)
 I (..\Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x5CCA3F75)
 I (..\Library\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x5CCA3F74)
 F (..\User\bsp_key.h)(0x5CCA3F77)()
-F (..\Doc\程序说明.txt)(0x5CCA3F74)()
+F (..\Doc\程序说明.txt)(0x5CCA51EA)()

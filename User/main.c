@@ -11,11 +11,11 @@ int main(void)
 	LED2(0);
 	while(1)
 	{
-//		if(GPIO_ReadInputDataBit(KEY1_PORT, KEY1_PIN) == Bit_SET)
-//		{
-//			LED1(1);
-//		}
-//		LED1(0);
+		if(GPIO_ReadInputDataBit(KEY1_PORT, KEY1_PIN) == Bit_SET)
+		{
+			LED1(1);
+		}
+		LED1(0);
 	}
 
 
